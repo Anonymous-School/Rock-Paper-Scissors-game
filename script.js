@@ -91,7 +91,7 @@ function show_user_picked() {
             </div>
             <div class="you_button">
                 <div class="button2" id="${user_id}">
-                    <div class="button_back"><img src="Images/${user_id}.svg" alt="paper"></div>
+                    <div class="button_back"><img src="images/${user_id}.svg" alt="paper"></div>
                 </div>
             </div>
         </div>
@@ -116,7 +116,7 @@ function show_computer_picked() {
             </div>
             <div class="you_button">
                   <div class="button2" id="${user_id}">
-                    <div class="button_back"><img src="Images/${user_id}.svg" alt="paper"></div>
+                    <div class="button_back"><img src="images/${user_id}.svg" alt="paper"></div>
                   </div>
             </div>
         </div>
@@ -127,7 +127,7 @@ function show_computer_picked() {
             </div>
             <div class="computer_button">
                 <div class="button2" id="${computer_id}">
-                    <div class="button_back"><img src="Images/${computer_id}.svg" alt="rock"></div>
+                    <div class="button_back"><img src="images/${computer_id}.svg" alt="rock"></div>
                 </div>
             </div>
         </div>
@@ -143,7 +143,7 @@ function show_result(user_choose) {
             </div>
             <div class="you_button">
                 <div class="button2" id="${user_id}">
-                    <div class="button_back"><img src="Images/${user_id}.svg" alt="paper"></div>
+                    <div class="button_back"><img src="images/${user_id}.svg" alt="paper"></div>
                 </div>
             </div>
         </div>
@@ -161,7 +161,7 @@ function show_result(user_choose) {
             </div>
             <div class="computer_button">
                 <div class="button2" id="${computer_id}">
-                    <div class="button_back"><img src="Images/${computer_id}.svg" alt="rock"></div>
+                    <div class="button_back"><img src="images/${computer_id}.svg" alt="rock"></div>
                 </div>
             </div>
         </div>
