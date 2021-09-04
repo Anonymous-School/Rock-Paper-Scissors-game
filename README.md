@@ -1,4 +1,6 @@
 # Frontend Mentor - Rock, Paper, Scissors
+## Live Preview : [Click Here](https://anonymous-school.github.io/Rock-Paper-Scissors-game/)
+
 
 ![Design preview for the Rock, Paper, Scissors coding challenge](./design/desktop-preview.jpg)
 
